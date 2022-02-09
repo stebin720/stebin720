@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stebin720
-- 👀 I’m interested in web design.
-- 🌱 I’m currently learning Btech.
+- 👋 Hi, I’m Stebin Sabu 
+- 👀 I’m interested in Web Design.
+- 🌱 I’m currently learning Btech 3rd year in CSE.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
