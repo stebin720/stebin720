@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Stebin Sabu 
-- 👀 I’m interested in Web Design.
-- 🌱 I’m currently learning Btech 3rd year in CSE.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Btech 4rd year in CSE.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email id: stebinsabu108@gmail.com
 
 <!---
 stebin720/stebin720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
