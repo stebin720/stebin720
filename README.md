@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stebin Sabu 
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently pursuing Btech 4th year in CSE.
+- 🌱 I’m currently working as a Software Engineering. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email id: stebinsabu108@gmail.com
 
